@@ -1,0 +1,3 @@
+ interface IPassExam {
+    void passExam();
+}
